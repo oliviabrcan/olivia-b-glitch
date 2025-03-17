@@ -128,9 +128,9 @@ h5 {
   min-height: 375px;
   border-radius: 10px 10px 10px 10px;
   text-align: center;
-  background-color: green;
-  color: white;
-  font-family: "PT Serif", serif; /* font for <p> text */
+  background-color: white;
+  color: grey;
+  font-family: "Roboto Mono", monospace; /* font for <p> text */
   font-size: 14px;
   text-align: center;
 }
@@ -154,8 +154,8 @@ h5 {
   border-radius: 10px 10px 10px 10px;
   text-align: left;
   background-color: #000000;
-  background-image: url("https://cdn.glitch.com/02600171-b43e-46dd-a21e-bfc0b9a82267%2FcatBG.gif?v=1620459338357"); /* replace this gif background with an image of your choosing or create your own gif at giphy.com using a plain background and adding effects or just delete the background-image property and you can set the background-color to what you want (it's currently black)*/
-  color: #68d911;
+  /* replace this gif background with an image of your choosing or create your own gif at giphy.com using a plain background and adding effects or just delete the background-image property and you can set the background-color to what you want (it's currently black)*/
+  color: white;
   font-family: "Source Code Pro", monospace;
   font-size: 14px; 
 }
@@ -165,7 +165,7 @@ h5 {
   border-radius: 8px;
   color: #000000;
   background-color: white;
-  font-family: "PT Serif", serif;
+  font-family: "Roboto Mono", monospace;
   font-size: 12px;
   margin: 15px;
 }
